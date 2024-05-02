@@ -4808,32 +4808,6 @@ https://www.googleapis.com/drive/v3/files/1mZrB2XpZJiC_kQLuzMwXxlDciiIltbFT?alt=
 
 
 
-<========================= HBO Group ===================================>
-
-
-
-
-#EXTINF:-1 group-title="CHANNEL | HBO GRUB" tvg-id="cinemaxasia.sg" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinemax 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-https://cdnjkt4.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.m3u8|user-agent=mozilla/89 ExoPlayerLib
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:0 tvg-name="HBO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGZ9Ikp86p-GQ1gGt2-LaRpU_YGTQ5HhWvUQ&usqp=CAU" group-title="CHANNEL | HBO GRUB",HBO 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true 
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 
 #EXTINF:0 tvg-name="HBO ㊰Family" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2021/03/25/1569547806.jpg" group-title="CHANNEL | HBO GRUB",HBO Family
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4855,6 +4829,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a
 
 #EXTINF:0  group-title="CHANNEL | HBO GRUB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrK0BmR_rwkMqKcD2zvTkcpQ-5XKjEr-012g&usqp=CAU",HBO Extreme
 http://208.115.225.174:14165
+
 
 
 
