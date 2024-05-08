@@ -1,4 +1,10 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="CHANNEL | HBO GRUB" tvg-id="hitsnow.sg" tvg-logo="https://www.hitstv.com/assets/hits-now-logo-white.png",HITS NOW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
+
+
 #EXTINF:-1 group-logo="https://i.ibb.co/RPqtx8W/cat-knowledge.png",
 
 #EXTINF:-1 tvg-id="AMC Break" tvg-name="" tvg-logo="https://i.ibb.co/CPQ1snf/amcbreak.png" group-title="CHANNEL | KNOWLEDGE", AMC BREAK 🇺🇸 🇪🇸 
