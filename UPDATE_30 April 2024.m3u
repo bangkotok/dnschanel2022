@@ -4302,7 +4302,7 @@ https://www.googleapis.com/drive/v3/files/1mZrB2XpZJiC_kQLuzMwXxlDciiIltbFT?alt=
 
 <========================= HBO Group ===================================>
 
-
+#EXTINF:-1 group-title="CHANNEL | HBO GRUB" tvg-id="hitsnow.sg" tvg-logo="https://www.hitstv.com/assets/hits-now-logo-white.png",HITS NOW https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 
 #EXTINF:0 tvg-name="Cinemax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhBMejOD1OyEDLWro0mvPTm5JRQLiAzH_94A&usqp=CAU" group-title="CHANNEL | HBO GRUB",Cinemax set resolusi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
